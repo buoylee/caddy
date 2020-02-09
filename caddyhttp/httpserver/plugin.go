@@ -701,6 +701,7 @@ var directives = []string{
 	"restic",    // github.com/restic/caddy
 	"wkd",       // github.com/emersion/caddy-wkd
 	"dyndns",    // github.com/linkonoid/caddy-dyndns
+	"buoy",
 }
 
 const (
